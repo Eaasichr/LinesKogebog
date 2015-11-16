@@ -3,19 +3,19 @@
 
   var postsService = function ($http, $rootScope) {
 
-    var getPosts = function () {
-      return $http.get('../data.json')
-        .then(function (response) {
-          return response.data;
-        });
-    };
+    // var getPosts = function () {
+    //   return $http.get('../data.json')
+    //     .then(function (response) {
+    //       return response.data;
+    //     });
+    // };
 
-    var getCategories = function(){
-      return $http.get('../categories.json'
-      ).then(function(response) {
-          return response.data;
-        });
-    };
+    // var getCategories = function(){
+    //   return $http.get('../categories.json'
+    //   ).then(function(response) {
+    //       return response.data;
+    //     });
+    // };
 
     var getPostsWithCategoryId = function(){
       return $http.get('http://lineskogebog.dk/api/get_category_posts/?category_id=' + 7)
@@ -24,19 +24,19 @@
         })
     }
 
-    //var getPosts = function(){
-    //  return $http.get('http://lineskogebog.dk/api/get_recent_recipe/'
-    //  ).then(function(response) {
-    //      return response.data;
-    //    });
-    //};
-    //
-    //var getCategories = function () {
-    //  return $http.get('http://lineskogebog.dk/api/get_category_index')
-    //    .then(function (response) {
-    //      return response.data;
-    //    });
-    //};
+    var getPosts = function(){
+     return $http.get('http://lineskogebog.dk/api/get_recent_recipe/'
+     ).then(function(response) {
+         return response.data;
+       });
+    };
+    
+    var getCategories = function () {
+     return $http.get('http://lineskogebog.dk/api/get_category_index')
+       .then(function (response) {
+         return response.data;
+       });
+    };
 
     //var addRecipeToFavorite = function(id){
     //  var favorites = new Array(
