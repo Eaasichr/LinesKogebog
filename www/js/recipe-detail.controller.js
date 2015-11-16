@@ -1,12 +1,27 @@
 (function () {
 
   angular
-    .module("starter.recipeDetail", [])
+    .module("starter.recipeDetail", ['ngSanitize'])
     .controller("recipeDetailCtrl", recipeDetailController);
 
-  function recipeDetailController() {
+  function recipeDetailController($rootScope, postsService) {
     var vm = this;
-    console.log($scope.test);
+    vm.postDetail = $rootScope.postDetail;
+    console.log($rootScope.postDetail);
+
+    //vm.favorite = function(id){
+    //  postsService.addRecipeToFavorite(id);
+    //}
+    //
+    //vm.unFavorite = function(id){
+    //  postsService.removeRecipeFromFavorites(id);
+    //}
+
+    //vm.isFavorite = function(id){
+    //  vm.isFavorite = postsService.isFavorite(id);
+    //}
+
+
   }
 
 }());

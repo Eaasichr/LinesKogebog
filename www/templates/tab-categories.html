@@ -1,9 +1,9 @@
 <ion-view view-title="Kategorier">
   <ion-content>
     <ion-list>
-      <ion-item ng-repeat="category in vm.categories">
-        {{category}}
-        <span class="badge badge-assertive">0</span>
+      <ion-item ng-repeat="category in vm.categories" ng-click="vm.setCategory(category.title)" href="#/tab/category/{{category.id}}">
+        {{category.title}}
+        <span class="badge badge-assertive">{{category.post_count}}</span>
       </ion-item>
     </ion-list>
   </ion-content>

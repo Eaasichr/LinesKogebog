@@ -1,0 +1,62 @@
+{
+  "status": "ok",
+  "count": 7,
+  "categories": [
+    {
+      "id": 7,
+      "slug": "brod",
+      "title": "Br\u00f8d",
+      "description": "Her kan du finde simple og hurtige opskrifter p\u00e5 br\u00f8d til enhver lejlighed. Om det skal kunne passe sig selv i ovnen, eller du vil pr\u00f8ve at lave det p\u00e5 grillen en varm sommerdag.",
+      "parent": 0,
+      "post_count": 4
+    },
+    {
+      "id": 5,
+      "slug": "desserter",
+      "title": "Desserter",
+      "description": "Her kan du finde opskrifter p\u00e5 traditionelle kager, samt andre l\u00e6kre desserter. Opskrifterne er specielt gode, hvis du st\u00e5r og mangler en simpel med god dessert.",
+      "parent": 0,
+      "post_count": 11
+    },
+    {
+      "id": 3,
+      "slug": "forretter",
+      "title": "Forretter",
+      "description": "Her kan du finde opskrifter p\u00e5 forretter, om det er de traditionelle tarteletter med h\u00f8ns i asparges eller m\u00e5ske en forret til et mexicansk tema.",
+      "parent": 0,
+      "post_count": 5
+    },
+    {
+      "id": 4,
+      "slug": "hovedretter",
+      "title": "Hovedretter",
+      "description": "Her kan du finde opskrifter inde for kategorien hovedretter. Alt lige fra simple og hurtige hverdags retter, til lidt mere kr\u00e6vende hovedretter til s\u00e6rlige lejligheder.",
+      "parent": 0,
+      "post_count": 15
+    },
+    {
+      "id": 9,
+      "slug": "salater",
+      "title": "Salater",
+      "description": "Her kan du finde opskrifter p\u00e5 sunde gr\u00f8nne salater, som fungere godt i en ret med mange elementer. Men ogs\u00e5 opskrifter p\u00e5 salater, der m\u00e6tter lidt mere, som er et godt alternativ til hovedrettens tilbeh\u00f8r.",
+      "parent": 0,
+      "post_count": 2
+    },
+    {
+      "id": 6,
+      "slug": "slik-og-smaakager",
+      "title": "Slik og sm\u00e5kager",
+      "description": "Her kan du finde nogle l\u00e6kre opskrifter til den s\u00f8de tand. Der er b\u00e5de kr\u00e6vende samt nemme og hurtige opskrifter indenfor kategorien slik og sm\u00e5kager.",
+      "parent": 0,
+      "post_count": 6
+    },
+    {
+      "id": 8,
+      "slug": "tilbehor",
+      "title": "Tilbeh\u00f8r",
+      "description": "Her kan du finde opskrifter p\u00e5 b\u00e5de spr\u00f8dt og bl\u00f8dt tilbeh\u00f8r til hovedretten. Om det er den klassiske kartoffel, der bliver brugt, eller det er et andet alternativ.",
+      "parent": 0,
+      "post_count": 5
+    }
+  ]
+}

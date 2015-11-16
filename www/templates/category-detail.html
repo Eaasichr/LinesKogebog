@@ -1,4 +1,4 @@
-<ion-view view-title="Opskrifter">
+<ion-view view-title="{{vm.currentCategory}}">
   <ion-content>
 
     <div class="list list-inset">
@@ -8,8 +8,8 @@
       </label>
     </div>
     <div class="row" style="flex-wrap: wrap;">
-      <div class="col col-50" ng-repeat="posts in vm.posts">
-        <a class="recipeTitle" href="#/tab/recipe/{{posts.id}}" ng-click="vm.getPostDetail(posts.id)"/>
+      <div class="col col-50" ng-repeat="posts in vm.posts | filter:{category:vm.currentCategory}">
+        <a class="recipeTitle" href="#/tab/category/recipes/{{posts.id}}" ng-click="vm.getPostDetail(posts.id)"/>
         <div class="card padding" ng-style="{height: '{{testHeight}}px'}">
           <img ng-if="posts.thumbnail" ng-src="{{posts.thumbnail}}" alt=""/>
           <img ng-if="!posts.thumbnail" ng-src="http://lineskogebog.dk/wp-content/uploads/2015/09/Default-thumbnail.png"

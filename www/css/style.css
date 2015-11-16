@@ -1,9 +1,40 @@
 /* Empty. Add your own CSS if you like */
 @import url(https://fonts.googleapis.com/css?family=Lobster);
 
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 28px;
+}
+h2 {
+  font-family: 'Lobster', cursive;
+  font-size: 22px;
+}
+h3 {
+  font-family: 'Lobster', cursive;
+  font-size: 18px;
+}
+
+
 img{
   width: 100%;
   height: auto;
 }
+
+.recipeTitle{
+  text-decoration: none;
+  color: #333333;
+  text-align: center;
+}
+
+.card{
+  margin: 0;
+}
+
+.badge.badge-assertive{
+  background-color: #BA1111;
+}
+
+
 
 

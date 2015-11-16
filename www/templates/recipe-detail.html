@@ -1,12 +1,27 @@
-<ion-view view-title="Opskrifter">
-  <ion-content class="padding">
+<ion-view view-title="{{vm.currentRecipe}}">
+  <ion-content>
+    <img ng-if="vm.postDetail.banner" ng-src="{{vm.postDetail.banner}}" alt=""/>
 
-    <div class="list list-inset">
-      <label class="item item-input">
-        <i class="icon ion-search placeholder-icon"></i>
-        <input type="text" placeholder="Search">
-      </label>
+    <div class="padding">
+      <div>
+        <p class="ion-android-favorite-outline" style="font-size: 40px; float: right; padding-right: 5px"></p>
+
+        <!--<p class="ion-android-favorite active" style="font-size: 40px; float: right; padding-right: 5px"-->
+           <!--ng-click="vm.unFavorite(vm.postDetail.id)" ng-if="vm.isFavorite(vm.postDetail.id)"></p>-->
+        <h1>{{vm.postDetail.title}}</h1>
+
+      </div>
+      <a>({{vm.postDetail.category}})</a>
+
+      <p ng-if="vm.postDetail.number_quantity" ng-bind-html="vm.postDetail.number_quantity"></p>
+
+      <h2>Ingredienser</h2>
+
+      <p ng-bind-html="vm.postDetail.ingredients"></p>
+
+      <h2>Fremgangsmåde</h2>
+
+      <p ng-bind-html="vm.postDetail.approach"></p>
     </div>
-    {{vm.postDetail.id}}
   </ion-content>
 </ion-view>
