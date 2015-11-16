@@ -1,0 +1,966 @@
+﻿{
+  "status": "ok",
+  "count": 47,
+  "count_total": 47,
+  "pages": 1,
+  "posts": [
+    {
+      "id": 426,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/kanelkage\/",
+      "title": "Kanelkage",
+      "date": "2015-10-21 12:39:07",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<h3>Dej<\/h3>\r\n<ul>\r\n\t<li>600 g mel<\/li>\r\n\t<li>3 tsk. kanel<\/li>\r\n\t<li>3 tsk. natron<\/li>\r\n\t<li>500 g sukker<\/li>\r\n\t<li>7\u00bd dl k\u00e6rnem\u00e6lk<\/li>\r\n\t<li>175 g margarine<\/li>\r\n<\/ul>\r\n<h3>Glasur<\/h3>\r\n<ul>\r\n\t<li>175 g margarine<\/li>\r\n\t<li>350 g flormelis<\/li>\r\n\t<li>3 spsk. kakao<\/li>\r\n\t<li>1 pasteuriseret \u00e6g<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 bradepande"
+      ],
+      "approach": [
+        "Mel, natron, kanel, sukker og k\u00e6rnem\u00e6lk blandes\u00a0sammen. Margarinen smeltes og kommes i blandingen. Det hele blandes godt sammen. Dejen h\u00e6ldes i en bradepande bekl\u00e6dt med bagepapir.\u00a0Kanelkagen\u00a0bages\u00a0i ca. 20 minutter ved 180\u00b0.\r\n\r\nMens kagen bages laves glasuren. Margarinen smeltes\u00a0og blandes med flormelis og kakao. \u00c6gget tils\u00e6ttes under kraftig omr\u00f8ring. Glasuren sm\u00f8res p\u00e5 kagen, lige n\u00e5r den er taget ud af ovnen."
+      ],
+      "tools": [
+        ""
+      ],
+      "category": "Desserter"
+    },
+    {
+      "id": 386,
+      "url": "http:\/\/lineskogebog.dk\/tilbehor\/kogte-kartofler\/",
+      "title": "Kogte kartofler",
+      "date": "2015-09-25 07:10:06",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>600 g kartofler<\/li>\r\n\t<li>2\u00a0tsk. salt<\/li>\r\n\t<li>Vand<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 4 personer"
+      ],
+      "approach": [
+        "Kartoflerne s\u00e6ttes helst over i allerede kogende vand med salt. Kartoflerne skal kun lige d\u00e6kkes af vand.\r\n\r\nKartoflerne koges mellem 25-30 minutter.\u00a0S\u00e5 snart kartoflerne er m\u00f8re, h\u00e6ldes vandet fra dem. Kartoflerne kommes i en sk\u00e5l, og s\u00e5 er der\u00a0serveret."
+      ],
+      "tools": null,
+      "category": "Tilbeh\u00f8r"
+    },
+    {
+      "id": 381,
+      "url": "http:\/\/lineskogebog.dk\/salater\/bulgursalat-med-pesto-bonner-og-feta\/",
+      "title": "Bulgursalat med pesto, b\u00f8nner og feta",
+      "date": "2015-09-24 20:50:08",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>100 g bulgur<\/li>\r\n\t<li>3 tsk. gr\u00f8n pesto<\/li>\r\n\t<li>100 g frosne b\u00f8nner<\/li>\r\n\t<li>\u00bd agurk<\/li>\r\n\t<li>\u00bd peberfrugt<\/li>\r\n\t<li>50 g rucolasalat<\/li>\r\n\t<li>100 g feta<\/li>\r\n\t<li>20 g gr\u00e6skarkerner<\/li>\r\n\t<li>20 g t\u00f8rrede traneb\u00e6r<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Bulguren koges efter pakkens anvisninger. N\u00e5r bulguren er k\u00f8let af vendes de i pesto. B\u00f8nner dampes og k\u00f8les af, og agurk og peberfrugt snittes i tern. B\u00f8nner, agurk, peberfrugt og rucolasalat vendes i bulguren med pesto.\r\n\r\nFeta rives eller sk\u00e6res i tern og kommes i. Gr\u00e6skarkerner og t\u00f8rrede traneb\u00e6r drysses over bulgursalaten, og s\u00e5 kan den serveres.\r\n\r\nDer kan ogs\u00e5 kommes andre gr\u00f8ntsager i salaten. Broccoli, blomk\u00e5l eller guler\u00f8dder er gode, da de ikke v\u00e6sker s\u00e5 meget."
+      ],
+      "tools": null,
+      "category": "Salater"
+    },
+    {
+      "id": 379,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/kyllingebryster-med-pikantost-og-bacon\/",
+      "title": "Kyllingebryster med pikantost og bacon",
+      "date": "2015-09-24 19:10:54",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>6 kyllingebryster<\/li>\r\n\t<li>1 pakke pikantost<\/li>\r\n\t<li>Salt<\/li>\r\n\t<li>Peber<\/li>\r\n\t<li>18 skiver bacon<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 6 stk."
+      ],
+      "approach": [
+        "En rille sk\u00e6res p\u00e5 lang i hvert kyllingebryst. Rillerne fyldes med pikantost og kyllingebrysterne krydres med salt og peber. Hvert kyllingebryst pakkes in i tre skriver bacon, og kommes i et fad eller l\u00e6gges p\u00e5 en bradepande.\r\n\r\nKyllingebrysterne steges i ovnen i ca. 30 minutter ved 180\u00b0."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 377,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/mazarinkage\/",
+      "title": "Mazarinkage",
+      "date": "2015-09-24 19:09:05",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<h3>Dej<\/h3>\r\n<ul>\r\n\t<li>250 g margarine<\/li>\r\n\t<li>175 g sukker<\/li>\r\n\t<li>2 \u00e6g<\/li>\r\n\t<li>150 g hvedemel<\/li>\r\n\t<li>1 tsk. bagepulver<\/li>\r\n\t<li>3\/4\u00a0dl vand<\/li>\r\n\t<li>3\/4 tsk. mandelessens<\/li>\r\n<\/ul>\r\n<h3>Glasur<\/h3>\r\n<ul>\r\n\t<li>125 g flormelis<\/li>\r\n\t<li>2 spsk. kakao<\/li>\r\n\t<li>Vand<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 t\u00e6rteform"
+      ],
+      "approach": [
+        "Margarine, sukker og \u00e6g piskes godt sammen. Hvedemel og bagepulver blandes. Mandelessens tils\u00e6ttes vand. Begge dele tils\u00e6ttes blandingen, og det hele r\u00f8res sammen. Mazarinkagen bages i 25-30 minutter\u00a0ved 175\u00b0.\r\n\r\nFlormelis, kakao og vand r\u00f8res sammen til glasur. N\u00e5r kagen er k\u00f8let af, sm\u00f8res glasur ud over hele toppen af mazarinkagen."
+      ],
+      "tools": null,
+      "category": "Desserter"
+    },
+    {
+      "id": 316,
+      "url": "http:\/\/lineskogebog.dk\/slik-og-smaakager\/pebermynte-bolsjer\/",
+      "title": "Pebermynte bolsjer",
+      "date": "2015-09-21 09:09:24",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>1 dl vand<\/li>\r\n\t<li>300 g sukker<\/li>\r\n\t<li>75 g druesukker<\/li>\r\n\t<li>4 x 8 dr\u00e5ber pebermynteolie<\/li>\r\n\t<li>Olivenolie<\/li>\r\n\t<li>Flormelis<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Vandet bringes i kog og sukker og druesukker h\u00e6ldes i. Sukkermassen koges ind i ca. 10 minutter, eller til temperaturen er n\u00f8jagtig 165 grader C.\r\n\r\nCa. 1\/4 af den indkogte bolsjemasse heldes ud p\u00e5 en olieret bolcheplade. Pebermynteolien tils\u00e6ttes\u00a0og foldes ind i massen med en olieret palet, indtil det er blandet godt. N\u00e5r massen er afk\u00f8let en smule, kan den\u00a0blandes videre med fingrene. Massen tr\u00e6kkes ud og foldes gentagende gange, s\u00e5 den bliver ugennemsigtig.\r\n\r\nN\u00e5r bolsjemasse begynder at blive sej, rulles eller tr\u00e6kkes den til en lang p\u00f8lse, der\u00a0klippes i\u00a0bolsjefacon. Dette g\u00f8res ved at klippe, vende en kvart omgang, og klippe igen. Bolcherne ligges adskilt, mens de k\u00f8ler af.\r\n\r\nSamme fremgangsm\u00e5de gentages for hver af de resterende 1\/4 af bolsjemassen.\r\n\r\nN\u00e5r bolsjerne\u00a0er afk\u00f8lede, vendes de i flormelis\u00a0og\u00a0fyldes i en luftt\u00e6t beholder."
+      ],
+      "tools": [
+        "<ul>\r\n\t<li>Gryde<\/li>\r\n\t<li>Mad termometer<\/li>\r\n\t<li>Bolsje plade<\/li>\r\n\t<li>Saks<\/li>\r\n<\/ul>"
+      ],
+      "category": "Slik og sm\u00e5kager"
+    },
+    {
+      "id": 311,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/aeggekage-med-skinke-og-ost\/",
+      "title": "\u00c6ggekage med skinke og ost",
+      "date": "2015-09-21 08:56:06",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Aeggekage-med-skinke-og-ost-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Aeggekage-med-skinke-og-ost-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>5 \u00e6g<\/li>\r\n\t<li>Peber<\/li>\r\n\t<li>Flydende stege margarine<\/li>\r\n\t<li>200 g skinke<\/li>\r\n\t<li>100 g revet mozzarellaost<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "\u00c6ggene sl\u00e5s ud i en sk\u00e5l, krydres med lidt peber og piskes godt sammen. En pande sm\u00f8res med flydende stege margarine og varmes op. \u00c6ggemassen kommes p\u00e5 panden. N\u00e5r \u00e6ggene har sat sig lidt, drysses halvdelen af skinke ud over det hele. Den anden halvdel af skinken og osten drysses ud p\u00e5 kun halvdelen af \u00e6ggekagen.\r\n\r\nN\u00e5r \u00e6ggene n\u00e6sten har sat sig helt, foldes\u00a0den halve side kun med skinke, over\u00a0den anden side med skinke og ost. \u00c6ggekagen flyttes\u00a0ind p\u00e5 midten af panden og bages indtil den er f\u00e6rdig. Den vendes gerne, s\u00e5 den bliver gylden p\u00e5 begge sider.\r\n\r\nN\u00e5r \u00e6ggekagen er f\u00e6rdig, kan den serveres med en skive rugbr\u00f8d eller spises som den er."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 299,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/aebleskiver\/",
+      "title": "\u00c6bleskiver",
+      "date": "2015-09-20 19:30:46",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<h3>Dej<\/h3>\r\n<ul>\r\n\t<li>3 \u00e6g<\/li>\r\n\t<li>3 spsk. sukker<\/li>\r\n\t<li>2\u00bd dl kernem\u00e6lk<\/li>\r\n\t<li>2 dl fl\u00f8de - man kan ogs\u00e5 bruge kernem\u00e6lk<\/li>\r\n\t<li>250 g hvedemel<\/li>\r\n\t<li>2 tsk. bagepulver<\/li>\r\n<\/ul>\r\n<h3>Bagning<\/h3>\r\n<ul>\r\n\t<li>Flydende stege margarine<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til ca. 30 stk."
+      ],
+      "approach": [
+        "\u00c6ggene deles i hvider og blommer. \u00c6ggehviderne piskes stive og stilles til side. \u00c6ggeblommer og sukker piskes sammen. Kernem\u00e6lk og fl\u00f8de heldes i. Mel og bagepulver tils\u00e6ttes og det hele piskes godt sammen. \u00c6ggehviderne vendes forsigtigt i massen.\r\n\r\nLidt flydende stege margarine\u00a0kommes i hvert \u00e6bleskivehul og de fyldes derefter med dej.\u00a0Efter lidt tid vendes de med en p\u00e5l\u00e6gsgaffel. \u00c6bleskiverne vendes\u00a0rundt indtil de er f\u00e6rdige og tages af. Samme fremgangsm\u00e5de gentages indtil dejen er brugt op, og alle \u00e6bleskiver er bagt."
+      ],
+      "tools": [
+        "<ul>\r\n\t<li>\u00c6bleskivepande<\/li>\r\n<\/ul>"
+      ],
+      "category": "Desserter"
+    },
+    {
+      "id": 297,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/andebryst-med-sovs\/",
+      "title": "Andebryster med sovs",
+      "date": "2015-09-20 19:13:01",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>4 stk. andebryst<\/li>\r\n\t<li>Salt<\/li>\r\n\t<li>Peber<\/li>\r\n\t<li>1 tsk. andebouillon<\/li>\r\n\t<li>J\u00e6vning<\/li>\r\n\t<li>Madkul\u00f8r<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 4 stk."
+      ],
+      "approach": [
+        "Fedtlaget p\u00e5 andebrysterne ridses i fine tern helt ned til k\u00f8det. De krydres med\u00a0salt og peber. Andebrysterne brunes p\u00e5 en varm pande p\u00e5 fedtsiden f\u00f8rst, til de er gyldne og derefter kort p\u00e5 k\u00f8dsiden.\r\n\r\nAndebrysterne kommes i et fad som overd\u00e6kkes med stanniol. De steges f\u00e6rdig i ovnen i 20 minutter\u00a0ved 180\u00b0.\u00a0Andebrysterne lades st\u00e5 og tr\u00e6kke i 15 minutter.\r\n\r\n4 deciliter vand heldes p\u00e5 pande, s\u00e5 der er lidt, at lave sovs af. Andebouillon kommes til vandet og opl\u00f8ses.\u00a0En j\u00e6vning laves, best\u00e5ende af 1 dl koldt vand og 1 \u00bd spsk. mel. J\u00e6vningen\u00a0h\u00e6ld ved vandet og sovsen gives et lille opkog.\u00a0Madkul\u00f8re tils\u00e6ttes,\u00a0til sovsen har en\u00a0den rette\u00a0farve. Sovsen smages til og krydres\u00a0eventuelt med mere andebouillon eller salt og peber.\r\n\r\nN\u00e5r andebrysterne har trukket f\u00e6rdigt og sovsen er lavet, kan det eventuelt serveres med kogte kartofler og gr\u00f8nsager."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 295,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/vandbakkelse\/",
+      "title": "Vandbakkelse",
+      "date": "2015-09-20 19:05:56",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<h3>Dej<\/h3>\r\n<ul>\r\n\t<li>2 dl vand<\/li>\r\n\t<li>50 g margarine<\/li>\r\n\t<li>120 g mel<\/li>\r\n\t<li>3 store \u00e6g eller 4 sm\u00e5<\/li>\r\n<\/ul>\r\n<h3>Pynt<\/h3>\r\n<ul>\r\n\t<li>400 g flormelis<\/li>\r\n\t<li>2 spsk. kogende vand<\/li>\r\n\t<li>Haribo click mix<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 bradepande, kagemand eller kagekone"
+      ],
+      "approach": [
+        "Vand og margarine lunes. Melet tils\u00e6ttes under kraftig omr\u00f8ring og dejen k\u00f8les af. \u00c6gene piskes\u00a0i et ad gangen, hvor der piskes i et par minutter efter hvert, da det hele skal blive en tyk cremet masse.\r\n\r\nDejen spredes ud i en bradepande belagt med bagepapir i et \u00bd cm tyndt lag. Hvis der vil laves en kagemand eller kagekone, kan dejen kommes i en spr\u00f8jtepose, s\u00e5 er den nemmere at h\u00e5ndtere.\r\n\r\nVandbakkelsen bages i 20-30 minutter ved 200\u00b0, og tages ud n\u00e5r den er gyldenbrun. V\u00e6r opm\u00e6rksom p\u00e5, at hvis ovnd\u00f8ren \u00e5bnes eller den\u00a0tages ud for tidligt ud kan vandbakkelsen falde sammen.\r\n\r\nFlormelis og vand blandes til glasur. N\u00e5r vandbakkelsen er f\u00e6rdig pyntes den med glasur og slik."
+      ],
+      "tools": null,
+      "category": "Desserter"
+    },
+    {
+      "id": 293,
+      "url": "http:\/\/lineskogebog.dk\/slik-og-smaakager\/flodekarameller\/",
+      "title": "Fl\u00f8dekarameller",
+      "date": "2015-09-20 18:57:39",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>3 dl sukker<\/li>\r\n\t<li>3 dl druesukker<\/li>\r\n\t<li>2\u00bd dl fl\u00f8de<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Sukker, druesukker og fl\u00f8de blandes sammen og koges op til 130\u00b0. Blandingen h\u00e6ldes i et fad belagt med bageparpir og stilles til afk\u00f8ling.\r\n\r\nN\u00e5r karamellen er k\u00f8lig nok til at arbejde med klippes den ud i passende firkanter, som enkeltvis pakkes ind i cellofan eller bagepapir. Kom karamellerne i et glas eller en t\u00e6t beholder, s\u00e5 holder de l\u00e6ngere."
+      ],
+      "tools": [
+        "<ul>\r\n\t<li>Mad termometer<\/li>\r\n<\/ul>"
+      ],
+      "category": "Slik og sm\u00e5kager"
+    },
+    {
+      "id": 289,
+      "url": "http:\/\/lineskogebog.dk\/brod\/hveder\/",
+      "title": "Hveder",
+      "date": "2015-09-20 18:49:25",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>6 dl m\u00e6lk<\/li>\r\n\t<li>100 g margarine<\/li>\r\n\t<li>2 tsk. salt<\/li>\r\n\t<li>3 spsk. sukker<\/li>\r\n\t<li>1 \u00e6g<\/li>\r\n\t<li>50 g g\u00e6r<\/li>\r\n\t<li>800 g hvedemel<\/li>\r\n\t<li>75 g meizenamel eller kartoffelmel<\/li>\r\n\t<li>Lidt m\u00e6lk<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 16 stk."
+      ],
+      "approach": [
+        "M\u00e6lken lunes og margarinen smeltes. M\u00e6lk, margarine salt, sukker blandes sammen. \u00c6g og g\u00e6r r\u00f8res i. Hvedemelet \u00e6ltes i dejen, og derefter\u00a0meizenamelet. Dejen d\u00e6kkes til og stilles til h\u00e6vning et\u00a0lunt sted i ca. 1 time.\r\n\r\nDejen formes\u00a0til 16 ens boller. Hvis h\u00e6nderne gnides i lidt olie, s\u00e5 h\u00e6nger dejen ikke fast. Bollerne ligges i en smurt bradebande med 1-2 cm afstand, og stilles derefter til efterh\u00e6vning i 10 minutter.\r\n\r\nBollerne pensles omhyggeligt med m\u00e6lk, og krydres eventuelt med lidt vanilje. Bollerne bages i 20-25 minutter\u00a0ved 200\u00b0."
+      ],
+      "tools": null,
+      "category": "Br\u00f8d"
+    },
+    {
+      "id": 282,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/paneret-svinemorbrad-boffer\/",
+      "title": "Paneret svinem\u00f8rbrad b\u00f8ffer",
+      "date": "2015-09-20 18:28:43",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Paneret-svinemorbrad-boffer-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Paneret-svinemorbrad-boffer-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>1 fersk svinem\u00f8rbrad<\/li>\r\n\t<li>1 \u00e6g<\/li>\r\n\t<li>500 g rasp<\/li>\r\n\t<li>Salt<\/li>\r\n\t<li>Peber<\/li>\r\n\t<li>Paprika<\/li>\r\n\t<li>Aromat<\/li>\r\n\t<li>Flydende stege margarine<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "M\u00f8rbraden pudses af for det v\u00e6rste fedt, hinder og sener.\u00a0M\u00f8rbraden sk\u00e6res ud til b\u00f8ffer p\u00e5 tv\u00e6rs af k\u00f8dets linjer. M\u00f8rbradb\u00f8fferne bankes\u00a0m\u00f8re og flade med en k\u00f8dhammer.\r\n\r\n\u00c6g piskes ud i en dyb tallerken og rasp heldes i en anden dyb tallerken.\u00a0M\u00f8rbradb\u00f8fferne vendes f\u00f8rst\u00a0i \u00e6g, derefter rasp og til sidst spredes de ud p\u00e5 et sk\u00e6rebredt. De\u00a0krydres med\u00a0salt, peber, paprika og aromat p\u00e5 begge sider.\r\n\r\nEn\u00a0pande varmes op, og flydende stege margarine heldes p\u00e5. M\u00f8rbradb\u00f8fferne brunes kort p\u00e5 panden, s\u00e5 de er gyldne. Derefter ligges\u00a0de i et ovnfastfad og steges f\u00e6rdig\u00a0i ovnen i 20 minutter ved 150\u00b0."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 278,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/prinsessekage\/",
+      "title": "Prinsessekage",
+      "date": "2015-09-20 18:13:35",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Prinsessekage-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Prinsessekage-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>3 \u00e6g<\/li>\r\n\t<li>237 g sukker<\/li>\r\n\t<li>225 g mel<\/li>\r\n\t<li>13 g bagepulver<\/li>\r\n\t<li>30 g kakao<\/li>\r\n\t<li>15 g vaniljesukker<\/li>\r\n\t<li>75 g margarine<\/li>\r\n\t<li>2\u00bc dl m\u00e6lk<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 t\u00e6rteform"
+      ],
+      "approach": [
+        "\u00c6g og sukker piskes til en luftig \u00e6ggesnaps. M\u00e6lken lunes og\u00a0margarinen smeltes deri og det stilles derefter til afk\u00f8ling. Mel, bagepulver, kakao og vaniljesukker sigtes sammen og r\u00f8res derefter i \u00e6ggemassen skiftevis med m\u00e6lkeblandingen.\r\n\r\nDejen heldes i en smurt\u00a0t\u00e6rteform og bages\u00a0i ca. 40 minutter\u00a0ved 140\u00b0. Kagen serveres eventuelt med en kugle god vaniljeis, som st\u00e5r godt til kakao smagen i kagen."
+      ],
+      "tools": null,
+      "category": "Desserter"
+    },
+    {
+      "id": 276,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/helstegt-kylling-i-ovnen\/",
+      "title": "Helstegt kylling i ovnen",
+      "date": "2015-09-20 17:58:35",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>1 fersk 1600 g kylling<\/li>\r\n\t<li>Paprika<\/li>\r\n\t<li>Italiensk barbecue<\/li>\r\n\t<li>Aromat<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Det yderste af kyllingens vinger og bunden af l\u00e5rene og andet overskydende hud\u00a0sk\u00e6res af. Kyllingens bryst fl\u00e6kkes p\u00e5 langs, og brystet \u00e5bnes. Der sk\u00e6res igennem p\u00e5 begge sider af rygraden og den fjernes. De to kyllinge halvdele vaskes med koldt vand.\r\n\r\nIndersiderne af de to kyllinge halvdele krydres med\u00a0paprika, italiensk barbecue og aromat. De ligges\u00a0op i et indfastfad ved siden af hinanden med skindsiden op ad. Skindsiden krydres ogs\u00e5 med paprika, italiensk barbecue og aromat. Der h\u00e6ldes en cm vand ved kyllingen, for at sikre\u00a0at den\u00a0ikke bliver t\u00f8r.\r\n\r\nKyllingen steges i ovnen i 30 minutter ved 180\u00b0, hvorefter den pensles for at f\u00e5 et spr\u00f8dt skind. Dette g\u00f8res endnu en gang efter 30 minutter. Efter endnu 30 minutter, alts\u00e5 1 time og 30 minutter i alt, er kyllingen f\u00e6rdig."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 272,
+      "url": "http:\/\/lineskogebog.dk\/slik-og-smaakager\/chokolade-cookies\/",
+      "title": "Chokolade cookies",
+      "date": "2015-09-20 17:38:23",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Chokolade-cookies-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Chokolade-cookies-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>75 g sm\u00f8r<\/li>\r\n\t<li>100 g sukker<\/li>\r\n\t<li>50 g brun farin<\/li>\r\n\t<li>1 \u00e6g<\/li>\r\n\t<li>150 g hvedemel<\/li>\r\n\t<li>1 tsk. vaniljesukker<\/li>\r\n\t<li>\u00bd tsk. natron<\/li>\r\n\t<li>\u00bd tsk. salt<\/li>\r\n\t<li>100 g grofhakket m\u00e6lkechokolade<\/li>\r\n\t<li>50 g grofhakket mandler<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 25-30 stk."
+      ],
+      "approach": [
+        "Sm\u00f8r og sukker r\u00f8res godt sammen. Farin og \u00e6g r\u00f8res i. Mel, vaniljesukker, natron og salt blandes sammen og vendes i sm\u00f8rblandingen. Chokoladen og mandlerne r\u00f8res.\r\n\r\nDejen s\u00e6ttes i sm\u00e5 toppe p\u00e5 en bageplade\u00a0med to teskeer. Toppen trykkes\u00a0lidt flade.\r\n\r\nCookiesne bages \u00f8verst i ovnen i ca. 7 minutter ved 175\u00b0."
+      ],
+      "tools": null,
+      "category": "Slik og sm\u00e5kager"
+    },
+    {
+      "id": 269,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/daim-is\/",
+      "title": "Daim is",
+      "date": "2015-09-20 16:46:43",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>200 g daim chokolade<\/li>\r\n\t<li>150 g sukker<\/li>\r\n\t<li>6 pasteuriseret \u00e6ggeblommer<\/li>\r\n\t<li>5 dl piskefl\u00f8de<\/li>\r\n\t<li>2 tsk. vaniljesukker<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 springform"
+      ],
+      "approach": [
+        "Daim chokoladen hakkes i passende stykker.\r\n\r\n\u00c6ggeblommer og sukker piskes sammen til sukkeret er opl\u00f8st, og der dannes en luftig \u00e6ggesnaps. Fl\u00f8den piskes til fl\u00f8deskum. Fl\u00f8deskummen og daim chokoladen kommes i \u00e6ggesnapsen og vendes forsigtigt rund med store vendinger, indtil massen er ensartet.\r\n\r\nIsmassen heldes i en\u00a0springform og stilles i fryseren i mindst 6 timer. Isen f\u00e5r den bedste konsistens,\u00a0hvis der\u00a0r\u00f8res i den et par gange under frysningen."
+      ],
+      "tools": [
+        "<ul>\r\n\t<li>Springform<\/li>\r\n<\/ul>"
+      ],
+      "category": "Desserter"
+    },
+    {
+      "id": 267,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/wok-med-kylling-og-risnudler\/",
+      "title": "Wok med kylling og risnudler",
+      "date": "2015-09-20 16:34:57",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>250 g risnudler<\/li>\r\n\t<li>4 kyllingefileter<\/li>\r\n\t<li>4 spsk. sweet chilisauce<\/li>\r\n\t<li>4 spsk. sojasauce<\/li>\r\n\t<li>1 spsk. paprika<\/li>\r\n\t<li>2 r\u00f8dl\u00f8g<\/li>\r\n\t<li>4 fed hvidl\u00f8g<\/li>\r\n\t<li>2 dl m\u00e6lk<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Kyllingefileterne sk\u00e6res ud i sm\u00e5 tern. Kyllingeternene kommes i en sk\u00e5l sammen med halvdelen af sweet chilisaucen og sojasaucen, og stilles p\u00e5 k\u00f8l i 10 minutter for at marinere.\r\n\r\nRisnudlerne koges efter pakkens anvisninger.\r\n\r\nKyllingeternene steges i en wok eller p\u00e5 en pande. R\u00f8dl\u00f8g og hvidl\u00f8g hakkes fint og kommes i. Resten af sweet chilisaucen og sojasaucen tils\u00e6ttes\u00a0sammen med paprika og m\u00e6lk. Risnudlerne kommes i, og s\u00e5 er der serveret."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 264,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/gulerodskage\/",
+      "title": "Gulerodskage",
+      "date": "2015-09-20 16:15:32",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>300 g brun farin<\/li>\r\n\t<li>2 dl majsolie<\/li>\r\n\t<li>4 \u00e6g<\/li>\r\n\t<li>275 g mel<\/li>\r\n\t<li>1 tsk. vaniljesukker<\/li>\r\n\t<li>\u00bd tsk. salt<\/li>\r\n\t<li>2 tsk. kanel<\/li>\r\n\t<li>2 tsk. bagepulver<\/li>\r\n\t<li>1 tsk. natron<\/li>\r\n\t<li>300 g guler\u00f8dder<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 sandkageform"
+      ],
+      "approach": [
+        "Farin og\u00a0olie r\u00f8res\u00a0sammen. \u00c6ggene piskes i et ad gangen til det bliver cremet. Mel, vaniljesukker, salt, kanel, bagepulver og natron blandes sammen og r\u00f8res derefter sammen med resten af dejen. Guler\u00f8dderne rives fint og kommes i.\r\n\r\nDejen heldes i\u00a0en smurt sandkageform. Kagen bages\u00a0i ca. 40 minutter ved 150\u00b0. Kagen serveres eventuelt med et tyndt lag glasur, som giver lidt s\u00f8dt\u00a0til den ellers krydrede kage."
+      ],
+      "tools": null,
+      "category": "Desserter"
+    },
+    {
+      "id": 262,
+      "url": "http:\/\/lineskogebog.dk\/tilbehor\/flodekartofler\/",
+      "title": "Fl\u00f8dekartofler",
+      "date": "2015-09-20 15:41:03",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>1000 g kartofler<\/li>\r\n\t<li>5 dl piskefl\u00f8de<\/li>\r\n\t<li>Salt<\/li>\r\n\t<li>Peber<\/li>\r\n\t<li>1 l\u00f8g<\/li>\r\n\t<li>2 fede hvidl\u00f8g<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Kartoflerne skr\u00e6ldes og sk\u00e6res i skiver p\u00e5 ca. 0,5 cm. Kartoffelskiverne ligges i et ovnfastfad et lag af gangen, og kryddes med salt og peber mellem hvert lag og til sidst p\u00e5 toppen.\r\n\r\nL\u00f8g og hvidl\u00f8g snittes fint og fordeles over kartoflerne. Fl\u00f8den heldes over kartoflerne, og der krydres ogs\u00e5 gerne med lidt mere salt og peber oven p\u00e5 fl\u00f8den.\r\n\r\nEt stykke stanniol pakkes over fadet med fl\u00f8dekartoflerne. Kartoflerne bages i 30 minutter\u00a0ved 200\u00b0. Staniolen fjernes fra fadet med fl\u00f8dekartofler og de bages endnu 30 minutter ved 200\u00b0."
+      ],
+      "tools": null,
+      "category": "Tilbeh\u00f8r"
+    },
+    {
+      "id": 256,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/hakkebof-med-brun-sovs\/",
+      "title": "Hakkeb\u00f8ffer med brun sovs",
+      "date": "2015-09-20 15:15:52",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Hakkebof-med-brunsovs-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Hakkebof-med-brunsovs-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>800 g hakket oksek\u00f8d<\/li>\r\n\t<li>Paprika<\/li>\r\n\t<li>Peber<\/li>\r\n\t<li>Aromat<\/li>\r\n\t<li>Vand<\/li>\r\n\t<li>2\u00a0oksebouillonterning<\/li>\r\n\t<li>J\u00e6vning<\/li>\r\n\t<li>Madkul\u00f8r<\/li>\r\n<\/ul>\r\n<h2>Redskaber<\/h2>\r\n<ul>\r\n\t<li>H\u00f8jsidet pande<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 4 stk."
+      ],
+      "approach": [
+        "K\u00f8det deles i 1 4 gange 200 g og formes til b\u00f8ffer. De krydres p\u00e5 begge sider med paprika, peber og aromat. B\u00f8fferne steges\u00a0til de er faste.\r\n\r\nVand heldes ved b\u00f8fferne til de er d\u00e6kket. Oksebouillonterningerne kommes i og opl\u00f8ses i vandet. B\u00f8fferne lades st\u00e5 og simre\u00a0i vandet med l\u00e5g p\u00e5 i 10 minutter. Dette g\u00f8r at b\u00f8fferne giver smag til vandet.\r\n\r\nEn j\u00e6vning laves, best\u00e5ende af 1 dl koldt vand og 1 \u00bd spsk. mel. B\u00f8fferne fjernes\u00a0fra vandet og ligges p\u00e5 en tallerken. J\u00e6vningen h\u00e6ldes i vandet, og det gives et lille opkog. Madkul\u00f8re tils\u00e6ttes,\u00a0til sovsen har en\u00a0den rette\u00a0farve. Sovsen smages\u00a0til og krydres eventuelt med mere peber, aromat eller\u00a0oksebouillon.\r\n\r\nB\u00f8fferne kommes\u00a0tilbage i sovsen, og s\u00e5 er der serveret."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 245,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/banankage\/",
+      "title": "Banankage",
+      "date": "2015-09-20 12:47:39",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Banankage-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Banankage-banner.jpg",
+      "ingredients": [
+        "<h3>Dej<\/h3>\r\n<ul>\r\n\t<li>6 \u00e6g<\/li>\r\n\t<li>340 g sukker<\/li>\r\n\t<li>4 tsk. vaniljesukker<\/li>\r\n\t<li>250 g hvedemel<\/li>\r\n\t<li>2 tsk. bagepulver<\/li>\r\n\t<li>200 g margarine<\/li>\r\n\t<li>2-3 bananer<\/li>\r\n<\/ul>\r\n<h3>Pynt<\/h3>\r\n<ul>\r\n\t<li>150 g chokolade<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 sandkageform"
+      ],
+      "approach": [
+        "\u00c6g, sukker og vaniljesukker piskes til en luftig \u00e6ggesnaps. Margarinen smeltes. Mel og bagepulver blandes sammen og vendes forsigtigt i dejen skiftevis med margarinen. Bananerne moses og vendes\u00a0i dejen. Dejen h\u00e6ldes\u00a0i en smurt sandkageform.\r\n\r\nKagen bages\u00a0nederst i ovnen i ca. 55 minutter ved 175\u00b0. Kagen tages ud af formen og ligges p\u00e5 en bagerist. Chokoladen smeltes og kagen overtr\u00e6kkes med den.\r\n\r\nDenne opskrift kan ogs\u00e5 bruges til banan muffins, s\u00e5 bliver der 20 stk. Banan muffinsne skal kun bages\u00a0i ca. 30 minutter ved 175\u00b0."
+      ],
+      "tools": null,
+      "category": "Desserter"
+    },
+    {
+      "id": 221,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/frikadeller\/",
+      "title": "Frikadeller",
+      "date": "2015-09-19 12:31:46",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Frikadeller-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Frikadeller-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>2 l\u00f8g<\/li>\r\n\t<li>1000 g hakket kalve og svinek\u00f8d<\/li>\r\n\t<li>2 \u00e6g<\/li>\r\n\t<li>1 dl mel<\/li>\r\n\t<li>1 dl m\u00e6lk<\/li>\r\n\t<li>1-2 spsk. paprika<\/li>\r\n\t<li>3 tsk. salt<\/li>\r\n\t<li>1 tsk. peber<\/li>\r\n\t<li>Flydende stege margarine<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til ca. 40 stk."
+      ],
+      "approach": [
+        "L\u00f8gene rives fint. K\u00f8d, l\u00f8g, \u00e6g, mel, m\u00e6lk og paprika r\u00f8res godt sammen. Salt og peber r\u00f8res godt ind i farsen. Farsen r\u00f8res gerne med en hulske, for at g\u00f8re farsen mere luftig.\r\n\r\nEn\u00a0pande varmes op, og flydende stege margarine heldes p\u00e5. Frikadellerne formes med en spiseske i h\u00e5nden. Frikadellerne steges p\u00e5 begge sider til de er gyldne."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 219,
+      "url": "http:\/\/lineskogebog.dk\/brod\/foccacia-brod\/",
+      "title": "Foccacia br\u00f8d",
+      "date": "2015-09-19 11:45:19",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>25 g g\u00e6r<\/li>\r\n\t<li>3 dl vand<\/li>\r\n\t<li>\u00bd tsk. sukker<\/li>\r\n\t<li>\u00bd tsk. salt<\/li>\r\n\t<li>3 spsk. olie<\/li>\r\n\t<li>200 g durummel\/pizzamel<\/li>\r\n\t<li>300 g hvedemel<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 bradepande"
+      ],
+      "approach": [
+        "G\u00e6r, vand, sukker, salt, olie, durummel og hvedemel r\u00f8res godt sammen. Dejen fordeles i en bradepande.\r\n\r\nFingerspidserne presses ned i dejen, s\u00e5 der laves nogle fordybninger\u00a0i dejen. Salt eller rosemarin drysses p\u00e5. Halve cherrytomater og l\u00f8g kan ogs\u00e5 kommes p\u00e5.\r\n\r\nBr\u00f8det bages\u00a0i 20-25 minutter\u00a0ved 225\u00b0."
+      ],
+      "tools": null,
+      "category": "Br\u00f8d"
+    },
+    {
+      "id": 214,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/pizza-bagt-paa-pizzasten\/",
+      "title": "Pizza bagt p\u00e5 pizzasten",
+      "date": "2015-09-19 11:07:43",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Pizza-bagt-paa-pizzasten-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Pizza-bagt-paa-pizzasten-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>20 g g\u00e6r<\/li>\r\n\t<li>2 dl lunkent vand<\/li>\r\n\t<li>1 spsk. olie<\/li>\r\n\t<li>1 tsk. Salt<\/li>\r\n\t<li>1 spsk. sukker<\/li>\r\n\t<li>300 g pizzamel<\/li>\r\n\t<li>Pizzasauce<\/li>\r\n\t<li>Fyld - blandt andet skinke, oksek\u00f8d, pepperoni, p\u00f8lser, l\u00f8g, champignoner, osv.<\/li>\r\n\t<li>1 pose revet mozzarellaost<\/li>\r\n\t<li>Oregano<\/li>\r\n<\/ul>\r\n<h2>Redskaber<\/h2>\r\n<ul>\r\n\t<li>Pizzasten<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 2 stk."
+      ],
+      "approach": [
+        "G\u00e6ren r\u00f8res ud i lunkent vand. De \u00f8vrige ingredienser tils\u00e6ttes, og dejen \u00e6ltes godt sammen til den er glat og smidig. Dejen stilles til h\u00e6vning tild\u00e6kket et lunt sted i ca. 30 minutter.\r\n\r\nDejen sl\u00e5es sammen og deles i to lige store dele. De to\u00a0dejklumper formes til boller\u00a0og stilles til hvile tild\u00e6kket i 5 minutter.\r\n\r\nHver dejbollde rulles\u00a0ud til en cirkel p\u00e5 ca. 15 cm og l\u00e6gges hver p\u00e5 et stykke bagepapir. Pizzabundene stilles til efterh\u00e6vning tild\u00e6kket et lunt sted i ca. 30 minutter.\r\n\r\nPizzastenen placeres i midten af oven, som s\u00e6ttes p\u00e5 varmluft og 200\u00b0. Pizzastenen skal mindst v\u00e6re i ovnen i 30 minutter for at v\u00e6re varm nok. Hver pizzabund sm\u00f8res med et tyndt lag pizzasovs. Derefter det \u00f8nskede fyld og til sidst revet mozzarellaost og oregano.\r\n\r\nPizzaerne bages p\u00e5 pizzastenen en af gangen i ca. 10 minutter ved 200\u00b0."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 211,
+      "url": "http:\/\/lineskogebog.dk\/forretter\/lakseruller\/",
+      "title": "Lakseruller",
+      "date": "2015-09-19 10:46:48",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>Tortilla wraps<\/li>\r\n\t<li>Pikant fl\u00f8deost<\/li>\r\n\t<li>Koldr\u00f8get laks<\/li>\r\n\t<li>Salat<\/li>\r\n\t<li>Dressing<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Tortillaen sm\u00f8res med et tyndt lag fl\u00f8deost en centimeter fra kanten. Laks ligges\u00a0ovenp\u00e5, s\u00e5 fl\u00f8deosten n\u00e6sten er d\u00e6kket.\u00a0Tortillaen rulles\u00a0sammen og pakkes ind i husholdningsfilm. Samme fremgangsm\u00e5de gentages for de resterende tortillaer. Tortillaerne laves med fordel, dagen f\u00f8r de\u00a0skal bruges.\r\n\r\nVed servering sk\u00e6res tortillaen i skiver p\u00e5 1-2 cm, og placeres oven p\u00e5 en bund af salat og serveres med dressing."
+      ],
+      "tools": null,
+      "category": "Forretter"
+    },
+    {
+      "id": 205,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/indbagt-svinemorbrad\/",
+      "title": "Indbagt svinem\u00f8rbrad",
+      "date": "2015-09-19 10:40:16",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Indbagt-svinemorbrad-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Indbagt-svinem\u00f8rbrad-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>1 svinem\u00f8rbrad<\/li>\r\n\t<li>200 g champignon<\/li>\r\n\t<li>400 g hakket svinek\u00f8d<\/li>\r\n\t<li>2 spsk. hvedemel<\/li>\r\n\t<li>1 \u00e6g<\/li>\r\n\t<li>1 l\u00f8g<\/li>\r\n\t<li>2 fed hvidl\u00f8g<\/li>\r\n\t<li>1 spsk. paprika<\/li>\r\n\t<li>1 tsk. salt<\/li>\r\n\t<li>Lidt peber<\/li>\r\n\t<li>1 stor butterdejsplade<\/li>\r\n\t<li>1 \u00e6g til pensling<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 4 personer"
+      ],
+      "approach": [
+        "M\u00f8rbraden pudses af for det v\u00e6rste fedt, hinder og sener. Den krydres med\u00a0salt og peber og brunes derefter p\u00e5 en pande. M\u00f8rbraden l\u00e6gges til afk\u00f8ling.\u00a0Champignonerne renses og snittes i fine tern som svitses p\u00e5 panden. Champignonerne l\u00e6gges til afk\u00f8ling.\u00a0L\u00f8g og hvidl\u00f8g hakkes fint.\r\n\r\nHakket svinek\u00f8d, mel, \u00e6g, l\u00f8g, hvidl\u00f8g, paprika, salt, peber og champignoner blandes i en sk\u00e5l og r\u00f8res godt sammen.\r\n\r\nButterdejsrullen foldes ud p\u00e5 en bradepande halvdelen af farsen ligges tv\u00e6rs over butterdejen og m\u00f8rbraden ligges\u00a0ovenp\u00e5. Resten af farsen ligges omkring m\u00f8rbraden, s\u00e5 den er helt d\u00e6kket af fars. Farsen pensles med \u00e6g.\r\n\r\nButterdejen foldes\u00a0ind over m\u00f8rbraden i fars lukkes som en pakke.\u00a0Butterdejspakken vendes s\u00e5 samlingen vender ned af. Butterdejspakken pensles med \u00e6g og bages i ca. 1 time ved 200\u00b0."
+      ],
+      "tools": [
+        ""
+      ],
+      "category": "Hovedretter"
+    },
+    {
+      "id": 200,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/smorkage\/",
+      "title": "Sm\u00f8rkage",
+      "date": "2015-09-19 10:07:21",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Smorkage-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Smorkage-banner.jpg",
+      "ingredients": [
+        "<h3>Dej<\/h3>\r\n<ul>\r\n\t<li>1 pakke g\u00e6r<\/li>\r\n\t<li>1\u00bc dl m\u00e6lk<\/li>\r\n\t<li>100 g margarine<\/li>\r\n\t<li>1 \u00e6g<\/li>\r\n\t<li>25 g sukker<\/li>\r\n\t<li>333 g mel<\/li>\r\n\t<li>Lidt salt<\/li>\r\n<\/ul>\r\n<h3>Remonce<\/h3>\r\n<ul>\r\n\t<li>66 g margarine<\/li>\r\n\t<li>100 g brun farin<\/li>\r\n\t<li>Lidt sirup<\/li>\r\n\t<li>1 spsk. kanel<\/li>\r\n<\/ul>\r\n<h3>Creme<\/h3>\r\n<ul>\r\n\t<li>2 dl m\u00e6lk<\/li>\r\n\t<li>\u00bd pose cremepulver<\/li>\r\n<\/ul>\r\n<h3>Glasur<\/h3>\r\n<ul>\r\n\t<li>200 g flormelis<\/li>\r\n\t<li>1 spsk. kogende vand<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 1 t\u00e6rteform"
+      ],
+      "approach": [
+        "M\u00e6lken lunes og kommes i en sk\u00e5l. G\u00e6ren smuldres ned i\u00a0m\u00e6lken og der r\u00f8res indtil g\u00e6ren er opl\u00f8st. Margarinen lunes ogs\u00e5 og tils\u00e6ttes. \u00c6g, sukker, mel og salt kommes i og det hele r\u00f8res godt sammen. Dejen stilles til h\u00e6vning\u00a0i ca. 30 minutter.\r\n\r\nMargarine, brun farin, sirup og kanel r\u00f8res godt sammen til remonce.\r\n\r\nM\u00e6lk og cremepulver r\u00f8res sammen med en h\u00e5ndmikser i ca. 5 minutter. Cremen\u00a0stilles p\u00e5 k\u00f8l i ca. 30 minutter. Derefter\u00a0r\u00f8res cremen\u00a0hurtigt igennem med h\u00e5ndmikseren igen.\r\n\r\nDejen deles\u00a0i to portioner, den ene lidt st\u00f8rre en den anden. Den mindste del rulles ud til bunden. Den anden del rulles ud til en rektangel. F\u00f8rst fordeles remoncen fordeles p\u00e5 b\u00e5de bunden og den udrullede dej. Dern\u00e6st g\u00f8res det samme med kagecremen.\r\n\r\nDejen p\u00e5 bordet rulles\u00a0sammen til en roulade. Rouladen sk\u00e6res ud til snegle og\u00a0fordeles p\u00e5 bunden. Kagen stilles til\u00a0efterh\u00e6ve i 15-20 minutter og pensles derefter med \u00e6g. Kagen bages i ca. 20 minutter\u00a0ved 180\u00b0.\u00a0Flormelis og vand blandes til glasur.\u00a0Mens kagen stadig er lidt lun, pyntes den\u00a0med glasur og serveres."
+      ],
+      "tools": null,
+      "category": "Desserter"
+    },
+    {
+      "id": 196,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/pasta-med-kylling\/",
+      "title": "Pasta med kylling",
+      "date": "2015-09-19 09:30:23",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Pasta-med-kylling-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Pasta-med-kylling-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>3-4 kylling fileter afh\u00e6ngig af st\u00f8rrelsen<\/li>\r\n\t<li>1 l\u00f8g<\/li>\r\n\t<li>2 fed hvidl\u00f8g<\/li>\r\n\t<li>Olie<\/li>\r\n\t<li>2 tsk. paprika<\/li>\r\n\t<li>2 tsk. italiensk barbecue<\/li>\r\n\t<li>1 tsk. aromat<\/li>\r\n\t<li>300 g pasta<\/li>\r\n\t<li>1 cremefine 7 % til madlavning<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 4 personer"
+      ],
+      "approach": [
+        "Kyllingefileterne sk\u00e6res i tern. L\u00f8g og hvidl\u00f8g hakkes fint. Kyllingeternene, l\u00f8g og hvidl\u00f8g vendes i olie. Blandingen krydses med\u00a0paprika, italiensk barbecue og aromat. Lad eventuelt blandingen st\u00e5 p\u00e5 k\u00f8l et stykke tid for at krydderierne bedre kan tr\u00e6nge ind i k\u00f8det. Pastaen koges med lidt salt i 10-12 minutter.\r\n\r\nBlandingen med kyllingetern, l\u00f8g og hvidl\u00f8g brunes p\u00e5\u00a0en god varm pande. Der skrues dog ned p\u00e5 det halve, n\u00e5r k\u00f8det har f\u00e5et en gylden farve. Cremefine h\u00e6ldes ved kyllingen og gives det et lille opkog. Det smages til og der tils\u00e6ttes eventuelt mere paprika, italiens barbecue eller aromat afh\u00e6ngig af smag. Pastaen vendes i\u00a0blandingen og s\u00e5 er der serveret."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 188,
+      "url": "http:\/\/lineskogebog.dk\/forretter\/nachos-med-kylling\/",
+      "title": "Nachos med kylling",
+      "date": "2015-09-18 22:01:09",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>Nachos<\/li>\r\n\t<li>Salsa<\/li>\r\n\t<li>Revet mozzarellaost<\/li>\r\n\t<li>1-2 kyllinge fileter<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Kyllingfileterne sk\u00e6res ud i tern, krydres\u00a0med salt, peber og paprika og steges\u00a0p\u00e5 pandes.\r\n\r\nI bunden af et ovnfast fad ligges et lille lag nachos. List salsa sm\u00f8res udover dem, derefter lidt kyllingetern og til sidst\u00a0drysses ost ud over. Dette gentages 1-2 gange. Det hele bages\u00a0 i 10-15 minutter\u00a0ved 180\u00b0."
+      ],
+      "tools": null,
+      "category": "Forretter"
+    },
+    {
+      "id": 184,
+      "url": "http:\/\/lineskogebog.dk\/slik-og-smaakager\/havregrynskugler\/",
+      "title": "Havregrynskugler",
+      "date": "2015-09-18 21:13:37",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Havregrynskugler-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Havregrynskugler-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>300 g margarine<\/li>\r\n\t<li>500 g havregryn<\/li>\r\n\t<li>500 g flormelis<\/li>\r\n\t<li>\u00bd flaske mandelessens<\/li>\r\n\t<li>\u00bd flaske romessens<\/li>\r\n\t<li>Krymmel eller kokosmel<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til ca. 20 stk."
+      ],
+      "approach": [
+        "Margarine, havregryn, flormelis, mandelessens og romessens \u00e6ltes godt sammen. Massen skal v\u00e6re rigeligt klistret eller bliver romkuglerne t\u00f8rre.\u00a0Lad gerne massen st\u00e5 et d\u00f8gn. Efter et d\u00f8gn kan det ses,\u00a0om massen er blevet lidt t\u00f8r, og der skal tils\u00e6ttes mere v\u00e6de i form af\u00a0mandelessens og romessens.\r\n\r\nMassen trilles til\u00a0kugler og hver kugle vendes i krymmel eller kokosmel. Havregrynskuglerne opbevares i et t\u00e6tsluttet glas eller d\u00e5se for at bevare fugtigheden i dem."
+      ],
+      "tools": null,
+      "category": "Slik og sm\u00e5kager"
+    },
+    {
+      "id": 180,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/spaghetti-med-kodsovs\/",
+      "title": "Spaghetti med k\u00f8dsovs",
+      "date": "2015-09-18 21:00:12",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Spaghetti-med-kodsovs-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Spaghetti-med-kodsovs-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>300 g spaghetti<\/li>\r\n\t<li>500 g hakket oksek\u00f8d<\/li>\r\n\t<li>2 tsk. hvidl\u00f8gspeber<\/li>\r\n\t<li>2 tsk. paprika<\/li>\r\n\t<li>1 tsk. oregano<\/li>\r\n\t<li>1 oksebouillonterning<\/li>\r\n\t<li>1 l\u00f8g<\/li>\r\n\t<li>2 fed hvidl\u00f8g<\/li>\r\n\t<li>1 spsk. mel<\/li>\r\n\t<li>1 karton flydende tomat<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 4 personer"
+      ],
+      "approach": [
+        "Spaghettien koges i 10 til 12 minutter. K\u00f8det brunes i\u00a0en varm gryde. K\u00f8det krydres med med 1 tsk. af hvidl\u00f8gpeberet, mens det brunes. L\u00f8g og hvidl\u00f8g hakkes fint, mens k\u00f8det brunes af. L\u00f8gene brunes kort med,\u00a0n\u00e5r k\u00f8det er n\u00e6sten f\u00e6rdigt brunet.\r\n\r\nMel drysses\u00a0over k\u00f8det og l\u00f8gene for at j\u00e6vne sovsen. Der r\u00f8res rundt indtil melet er r\u00f8rt ud i massen. K\u00f8det vil klistre\u00a0sammen og virker meget tykt, men det er meningen. Flydende tomat kommes i gryden, og r\u00f8res rundt indtil massen og tomat er blandet sammen.\r\n\r\nSovsen krydres med\u00a0paprika, oregano og oksebouillon. Den\u00a0gives et lille opkog, s\u00e5 den ikke smager af mel. Sovsen smages til\u00a0og der tils\u00e6ttes eventuelt lidt\u00a0mere krydderi\u00a0afh\u00e6ngig af smag."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 176,
+      "url": "http:\/\/lineskogebog.dk\/tilbehor\/ovnstegte-kartofler\/",
+      "title": "Ovnstegte kartofler",
+      "date": "2015-09-18 20:38:23",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Ovnstegte-kartofler-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Ovnstegte-kartofler-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>Kartofler<\/li>\r\n\t<li>Olie<\/li>\r\n\t<li>Paprika<\/li>\r\n\t<li>Italiensk barbecue<\/li>\r\n\t<li>Aromat<\/li>\r\n\t<li>Salt<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Kartoflerne skr\u00e6lles og derefter skyldes. Kartoflerne sk\u00e6res i\u00a0tynde b\u00e5de og puttes i en sk\u00e5l hvor de vendes rundt i lidt olie. \u00a0Paprika, italiensk barbecue, aromat og salt drysses hen over kartoffelb\u00e5dene og de vendes rundt indtil krydderierne er godt fordelt p\u00e5 kartoflerne.\r\n\r\nKartoflerne spr\u00e6des ud i en bradepande eller i et ovnfast fad. S\u00f8rg for at kartoflerne\u00a0spr\u00e6des godt ud og ligger i et lag, dette giver en l\u00e6kker\u00a0spr\u00f8d skorpe. Kartoflerne bages\u00a0i ca. 30 minutter\u00a0ved 175\u00b0."
+      ],
+      "tools": null,
+      "category": "Tilbeh\u00f8r"
+    },
+    {
+      "id": 172,
+      "url": "http:\/\/lineskogebog.dk\/salater\/sommer-salat-med-friske-aerter\/",
+      "title": "Sommer salat med friske \u00e6rter",
+      "date": "2015-09-18 20:16:02",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Sommer-salat-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Sommer-salat-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>1 salathoved<\/li>\r\n\t<li>1 agurk<\/li>\r\n\t<li>1 peberfrugt<\/li>\r\n\t<li>3-4 tomater<\/li>\r\n\t<li>500 g friske \u00e6rter<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 8 personer"
+      ],
+      "approach": [
+        "Salaten snittes i strimler. Agurk og peberfrugt sk\u00e6res i tern. Tomaterne sk\u00e6res i b\u00e5de. Det hele blandes sammen i en sk\u00e5l eller et fad. \u00c6rtene pilles ud af b\u00e6lgene og drysses ud \u00f8verst p\u00e5 salaten."
+      ],
+      "tools": null,
+      "category": "Salater"
+    },
+    {
+      "id": 168,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/pitabroed\/",
+      "title": "Pitabr\u00f8d",
+      "date": "2015-09-18 19:47:02",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Pitabrod-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Pitabrod-banner.jpg",
+      "ingredients": [
+        "<ul class=\"ingredients\">\r\n\t<li>15 g g\u00e6r<\/li>\r\n\t<li>3 dl vand<\/li>\r\n\t<li>1 tsk. salt<\/li>\r\n\t<li>Ca. 150 g grahamsmel<\/li>\r\n\t<li>Ca. 200 g hvedemel<\/li>\r\n\t<li>Fyld - blandt andet skinke, tun, salat, majs, agurketern, dressing, osv.<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 8 stk."
+      ],
+      "approach": [
+        "G\u00e6ren r\u00f8res ud i lunkent vand. Salt og mel tils\u00e6ttes og dejen \u00e6ltes godt sammen. Dejen stilles til\u00a0h\u00e6vning tild\u00e6kket i ca. 45 minutter.\r\n\r\nDejen delen i\u00a08 stykker. Hvert dejstykke trilles\u00a0til en bolle og rulles derefter ud med med en kagerulle, s\u00e5 de har en diameter p\u00e5 omkring 15 cm. Br\u00f8dene l\u00e6gges\u00a0p\u00e5 en bradepande, og stilles til efterh\u00e6vning i ca. 10 minutter. Br\u00f8dene bages midt i\u00a0ovnen i 6-8 minutter ved 250\u00b0.\r\n\r\nPitabr\u00f8dene ligges til afk\u00f8ling p\u00e5 en bagerist. Pitabr\u00f8dene \u00e5bnes\u00a0eller sk\u00e6res over, og der kommes\u00a0fyld i hulrummet."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 163,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/fastelavnsboller-med-creme\/",
+      "title": "Fastelavnsboller med creme",
+      "date": "2015-09-18 19:04:05",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Fastalavnsboller-med-creme-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Fastelavnsboller-med-creme-banner.jpg",
+      "ingredients": [
+        "<h3>Dej<\/h3>\r\n<ul>\r\n\t<li>5 dl m\u00e6lk<\/li>\r\n\t<li>200 g margarine<\/li>\r\n\t<li>1\u00bd pak g\u00e6r<\/li>\r\n\t<li>1200 g mel<\/li>\r\n\t<li>2 tsk. salt<\/li>\r\n\t<li>2 \u00e6g<\/li>\r\n\t<li>100 g sukker<\/li>\r\n<\/ul>\r\n<h3>Creme<\/h3>\r\n<ul>\r\n\t<li>1 pose cremepulver<\/li>\r\n\t<li>4 dl m\u00e6lk<\/li>\r\n\t<li>Vaniljesukker<\/li>\r\n<\/ul>\r\n<h3>Glasur<\/h3>\r\n<ul>\r\n\t<li>400 g flormelis<\/li>\r\n\t<li>2\u00a0spsk. kogende vand<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til ca. 24 stk."
+      ],
+      "approach": [
+        "M\u00e6lk og margarine lunes til margarinen er smeltet, og stilles derefter til afk\u00f8ling. G\u00e6ren smuldres i. Lidt af melet r\u00f8res i. Salt, \u00e6g og sukker i r\u00f8res i. Mel tils\u00e6ttes\u00a0til dejen har den rette konsistens, gerne til den lidt klistrede side. Dejen stilles\u00a0til h\u00e6vning i ca. 30 minutter.\r\n\r\nPosen med\u00a0cremepuler r\u00f8res op i 4 dl m\u00e6lk. Cremen tils\u00e6ttes lidt\u00a0vaniljesukker.\r\n\r\nDejen deles i to potioner og rulles ud i to rektangler. Rektanglerne deles i firkanter p\u00e5 ca. 10 cm. Med en spiseske\u00a0l\u00e6gges en klat creme p\u00e5 hver firkant. Firkanterne foldes sammen og de placeres p\u00e5 en bageplade med samlingen nedad. Bollerne stilles til h\u00e6vning i ca.\u00a030 minutter.\r\n\r\nFastelavnsbollerne\u00a0bages\u00a0i ca. 15 minutter\u00a0ved 170\u00b0.\u00a0Mens bollerne\u00a0stadig er lidt lune, pyntes de med en klat glasur p\u00e5 toppen og serveres."
+      ],
+      "tools": null,
+      "category": "Desserter"
+    },
+    {
+      "id": 159,
+      "url": "http:\/\/lineskogebog.dk\/forretter\/fyldte-wraps\/",
+      "title": "Fyldte wraps",
+      "date": "2015-09-18 18:53:51",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Fyldte-warps-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Fyldte-wraps-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>Tortilla wraps<\/li>\r\n\t<li>Pikant fl\u00f8deost<\/li>\r\n\t<li>Skinke, kylling, kalkun, laks eller rejer<\/li>\r\n\t<li>Salat<\/li>\r\n\t<li>Peberfrugt st\u00e6nger<\/li>\r\n\t<li>Agurkest\u00e6nger<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Wrappen sm\u00f8res med fl\u00f8deost, der kan eventuelt bruges en dejskraber s\u00e5 der\u00a0ikke sm\u00f8res hul i wrappen. Skinke, laks eller rejer ligges i en stribe hen over wrappen. Salat drysses i en stribe hen over wrappen. Peberfrugt og agurkest\u00e6nger ligges p\u00e5 langs over det andet fyld. Den ene side af wrappen foldes\u00a0hen over fyldet, og derefter rulles wrappen stramt sammen om fyldet. Samme fremgangsm\u00e5de gentages for de resterende wraps.\r\n\r\nWrapsne ligges i et fad eller en b\u00f8tte t\u00e6t op af hinanden med samlingen ned af. Wrapsne stilles p\u00e5 k\u00f8l et par timer.\r\n\r\nDe vil nu v\u00e6re faste nok til, at de\u00a0kan sk\u00e6res ud i hapsere uden wrapsne folder sig ud. Wrapsne anrettes\u00a0p\u00e5 et fad med lidt salat blade og kan derefter serveres. Dem med laks kan eventuelt serveres med tunmousse og rejer."
+      ],
+      "tools": null,
+      "category": "Forretter"
+    },
+    {
+      "id": 157,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/lasagne-med-mornaysauce\/",
+      "title": "Lasagne med mornaysauce",
+      "date": "2015-09-18 18:52:19",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>700-800 g hakket oksek\u00f8d<\/li>\r\n\t<li>2 l\u00f8g<\/li>\r\n\t<li>4 fede hvidl\u00f8g<\/li>\r\n\t<li>1 karton flydende tomat<\/li>\r\n\t<li>3 dl vand<\/li>\r\n\t<li>1-2 oksebouillon terninger<\/li>\r\n\t<li>2 spsk. paprika<\/li>\r\n\t<li>1 tsk. oregano<\/li>\r\n\t<li>1 tsk. peber<\/li>\r\n\t<li>1 katon mornaysauce<\/li>\r\n\t<li>10-12\u00a0lasagneplader<\/li>\r\n\t<li>100 g revet mozzarellaost<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 4 personer"
+      ],
+      "approach": [
+        "Oksek\u00f8det brunes i en gryde. L\u00f8g og hvidl\u00f8g hakkes fint og vendes ned til k\u00f8det. Kartonen med flydende tomat og vandet\u00a0h\u00e6ldes i gryden. K\u00f8dsovsen krydres\u00a0med oksebouillon, paprika, oregano, og peber.\r\n\r\nLasagne bygges op i et ildfastfad. I bunden l\u00e6gges et lag k\u00f8dsovs, derefter mornaysauce og til sidst lasagne plader. Dette gentages\u00a0en 3 gange. Der sluttes af med k\u00f8dsovs og mornaysauce og drysses revet mozzarellaost p\u00e5 toppen.\r\n\r\nLasagnen bages i 30 min. ved\u00a0180\u00b0 i. Der kan eventuelt stikkes en k\u00f8dn\u00e5l ned i lasagnen for at sikre, at den har f\u00e5et nok."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 153,
+      "url": "http:\/\/lineskogebog.dk\/brod\/hvidlogsbrod\/",
+      "title": "Hvidl\u00f8gsbr\u00f8d",
+      "date": "2015-09-18 18:51:04",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Hvidlogsbrod-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Hvidlogsbrod-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>2 fed hvidl\u00f8g<\/li>\r\n\t<li>4 spsk. sm\u00f8r<\/li>\r\n\t<li>Salt<\/li>\r\n\t<li>Ciabattabr\u00f8d<\/li>\r\n\t<li>1 pose revet mozzarellaost<\/li>\r\n\t<li>Paprika<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Hvidl\u00f8g presses med en hvidl\u00f8gspresser eller hakkes fint. Det kommes i en sk\u00e5l sammen med sm\u00f8ren, og\u00a0r\u00f8res godt sammen.\r\n\r\nCiabattabr\u00f8det sk\u00e6res over p\u00e5 langs. De to halve br\u00f8d sm\u00f8res med hvidl\u00f8gssm\u00f8r, og en lille smule salt kv\u00e6rnes ovenp\u00e5. Osten fordeles p\u00e5 de to halve br\u00f8d og derefter drysses et tyndt lag paprika over osten. Br\u00f8dene bages i ca. 10-15 minutter\u00a0ved 200\u00b0."
+      ],
+      "tools": null,
+      "category": "Br\u00f8d"
+    },
+    {
+      "id": 148,
+      "url": "http:\/\/lineskogebog.dk\/forretter\/butterdejspakker-med-skinke-og-ost\/",
+      "title": "Butterdejspakker med skinke og ost",
+      "date": "2015-09-18 18:48:47",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": null,
+      "banner": null,
+      "ingredients": [
+        "<ul>\r\n\t<li>3 l\u00f8g<\/li>\r\n\t<li>2 fed hvidl\u00f8g<\/li>\r\n\t<li>10 skiver r\u00f8get skinke<\/li>\r\n\t<li>2 \u00e6g<\/li>\r\n\t<li>1 pose revet mozzarellaost<\/li>\r\n\t<li>2 tsk. t\u00f8rret basilikum<\/li>\r\n\t<li>4 plader frossen butterdej<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 8 stk."
+      ],
+      "approach": [
+        "L\u00f8g og hvidl\u00f8g hakkes fint og svitses i lidt margarine i en gryde. Skinken sk\u00e6res i fine tern og blandes i gryden sammen med hakket basilikum. 2 \u00e6g tils\u00e6ttes (gem lidt til at pensle med). Osten blandes i, og det hele varmes godt igennem. Det smages til med salt og peber. Fyldet\u00a0s\u00e6ttes til afk\u00f8ling.\r\n\r\nButterdejspladerne t\u00f8es op. Hver plade deles i 2 dele som hver rulles ud. N\u00e5r fyldet er koldt, fordeles det p\u00e5 butterdejspladerne. Dejen pakkes omkring fyldet, og de s\u00e6ttes p\u00e5 en bageplade med samlingen nedad. Butterdejspakkerne pensles med lidt \u00e6g og bages i 20-25 minutter ved 225\u00b0. De serveres varme evt. med et lille salatblad og halve sherrytomater."
+      ],
+      "tools": [
+        ""
+      ],
+      "category": "Forretter"
+    },
+    {
+      "id": 144,
+      "url": "http:\/\/lineskogebog.dk\/tilbehor\/hasselbagte-kartofler\/",
+      "title": "Hasselbagte kartofler",
+      "date": "2015-09-18 18:47:20",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Hasselbagte-kartofler-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Hasselbagte-kartofler-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>Kartofler<\/li>\r\n\t<li>Olie<\/li>\r\n\t<li>Paprika<\/li>\r\n\t<li>Salt<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Kartoflerne skr\u00e6ldes og skylles. Der sk\u00e6res riller i hver kartoffel med\u00a0en halv centimeters mellemrum, som stopper en centimeter fra bunden, s\u00e5 kartoflen stadig h\u00e6nger sammen.\r\n\r\nKartoflerne spredes ud i en bradepande eller et ovnfastfad. Olie, paprika og salt baldes sammen og kartoflerne\u00a0pensles med blandingen. Kartoflerne bages i ca. 40 minutter\u00a0ved 180\u00b0."
+      ],
+      "tools": null,
+      "category": "Tilbeh\u00f8r"
+    },
+    {
+      "id": 140,
+      "url": "http:\/\/lineskogebog.dk\/slik-og-smaakager\/brunkager\/",
+      "title": "Brunkager",
+      "date": "2015-09-18 18:44:46",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Brunkager-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Brunkager-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>500 g sm\u00f8r<\/li>\r\n\t<li>500 g sukker<\/li>\r\n\t<li>250 g lys sirup<\/li>\r\n\t<li>15 g potaske<\/li>\r\n\t<li>1 brev nelliker = 8 g<\/li>\r\n\t<li>25 g kanel<\/li>\r\n\t<li>75 g pomeransskal<\/li>\r\n\t<li>125 g mandler<\/li>\r\n\t<li>1 kg mel<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Sm\u00f8r, sukker og sirup varmes i en gryde\u00a0under omr\u00f8ring. N\u00e5r det syder i kanten, fjernes massen fra varmen. Potasken r\u00f8res ud i koldt vandt og tils\u00e6ttes derefter. Nelliker og kanel drysses i massen sammen med hakket pomeransskal. Mandlerne smuttes og snittes groft p\u00e5 langs, og puttes i massen.\r\n\r\nMassen stilles til afk\u00f8ling til den er h\u00e5ndvarm, hvorefter melet \u00e6ltes i. Dejen trilles til tykke p\u00f8lser og pakkes ind i bagepapir. De l\u00e6gges p\u00e5 k\u00f8l, gerne til dagen efter.\r\n\r\nDej p\u00f8lserne sk\u00e6res ud i tynde skiver, som ligges ud p\u00e5 en bageplade. Kagerne bages i 6-8 minutter ved 180\u00b0."
+      ],
+      "tools": null,
+      "category": "Slik og sm\u00e5kager"
+    },
+    {
+      "id": 136,
+      "url": "http:\/\/lineskogebog.dk\/brod\/grillbrod\/",
+      "title": "Grillbr\u00f8d",
+      "date": "2015-09-18 18:43:35",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Grillbrod-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Grillbrod-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>3 dl lunken vand<\/li>\r\n\t<li>\u00bd pak g\u00e6r<\/li>\r\n\t<li>1 dl fuldkornshvedemel<\/li>\r\n\t<li>Mel - til dejen har en passende konsistens<\/li>\r\n\t<li>1 skv\u00e6t olie<\/li>\r\n\t<li>1 tsk. salt<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 8 stk."
+      ],
+      "approach": [
+        "G\u00e6ren smuldres i vandet, og r\u00f8res ud indtil det er opl\u00f8st. Fuldkornshvedemel, olie, salt og bagepulver r\u00f8res i massen. Mel tils\u00e6ttes til dejen\u00a0har den rette konsistens. Dejen \u00e6ltes\u00a0godt sammen og sk\u00e6res derefter ud i\u00a08 stykker\u00a0som formes til\u00a0boller.\r\n\r\nEn foliebakke beregnet til grill sm\u00f8res med lidt mel. Bollerne ligges i foliebakken t\u00e6t op af hinanden. Bollerne stilles til h\u00e6vning i 15-30 minutter afh\u00e6ngig af temperaturen i rummet.\r\n\r\nFoliebakken med bollerne ligges p\u00e5 den grillen, n\u00e5r den startes op. N\u00e5r bollerne er bagt i bunden, placeres\u00a0en anden foliebakke med bunden i vejret oven p\u00e5 bollerne. Foliebakkerne holdes sammen og vendes rundt, s\u00e5 bollerne ender i den anden foliebakke. Bollerne vendes s\u00e5dan et par gange indtil de er f\u00e6rdigbagte."
+      ],
+      "tools": [
+        "<ul>\r\n\t<li>2 foliebakker beregnet til grill<\/li>\r\n<\/ul>"
+      ],
+      "category": "Br\u00f8d"
+    },
+    {
+      "id": 132,
+      "url": "http:\/\/lineskogebog.dk\/hovedretter\/svinemorbrad-i-sovs\/",
+      "title": "Svinem\u00f8rbrad i sovs",
+      "date": "2015-09-18 18:42:05",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Svinemorbrad-i-sovs-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Svinemorbrad-i-sovs-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>1 svinem\u00f8rbrad<\/li>\r\n\t<li>Bacontern<\/li>\r\n\t<li>Salt<\/li>\r\n\t<li>Peber<\/li>\r\n\t<li>1-2 Maggi terning<\/li>\r\n\t<li>1 Maizena Cremefine Madlavning 6%<\/li>\r\n\t<li>J\u00e6vning<\/li>\r\n\t<li>1-2 spsk. repsgele<\/li>\r\n\t<li>Madkul\u00f8r<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        ""
+      ],
+      "approach": [
+        "Baconternene svitses i en stor gryde, og puttes derefter p\u00e5 en tallerken bekl\u00e6dt med et stykke k\u00f8kkenrulle.\r\n\r\nM\u00f8rbraden pudses af for det v\u00e6rste fedt, hinder og sener. Den krydres med salt og peber og brunes i samme gryde som baconen. Vand h\u00e6ldes i gryden til m\u00f8rbraden er halvt d\u00e6kket. M\u00f8rbraden lades st\u00e5 og simre\u00a0i gryden ved lav i\u00a030-40 minutter.\r\n\r\nM\u00f8rbraden tages op af gryden. En j\u00e6vning laves, best\u00e5ende af 1 dl koldt vand og 1 \u00bd spsk. mel. J\u00e6vning,\u00a0Maggi terning, Maizena Cremefine Madlavning 6%, j\u00e6vning, repsgele og kul\u00f8r tils\u00e6ttes vandet i gryden og sovsen smages derefter til.\r\n\r\nM\u00f8rbraden puttes\u00a0tilbage i gryden og lades simre ved svag varme indtil den skal serveres.\r\n\r\nM\u00f8rbraden sk\u00e6res ud og\u00a0anbringes i et dybt fad sammen med sovsen. De svitsede bacontern drysses ud over m\u00f8rbraden, og\u00a0den er klar til servering."
+      ],
+      "tools": null,
+      "category": "Hovedretter"
+    },
+    {
+      "id": 128,
+      "url": "http:\/\/lineskogebog.dk\/forretter\/tarteletter\/",
+      "title": "Tarteletter",
+      "date": "2015-09-18 18:40:44",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Tarteletter-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Tarteletter-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>4 kyllingefileter<\/li>\r\n\t<li>1 gr\u00f8ntsags bouillonterning<\/li>\r\n\t<li>100 g sm\u00f8r<\/li>\r\n\t<li>6 spsk. mel<\/li>\r\n\t<li>1 d\u00e5se asparges<\/li>\r\n\t<li>12 tarteletter<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til 12 stk."
+      ],
+      "approach": [
+        "Kyllingefileterne koges i en gryde d\u00e6kket med vand med gr\u00f8ntsags bouillonterning. Kyllingefileterne tages op n\u00e5r de er f\u00e6rdige og s\u00e6ttes til afk\u00f8ling. Suppen sies til senere brug.\r\n\r\nKyllingefileterne sk\u00e6res i tern. Sm\u00f8rret smeltes i en gryde. Melet tils\u00e6ttes\u00a0sammen med vandet fra aspargesene. R\u00f8r det hele sammen indtil det tykner.\u00a0Kyllingebouillonsuppen h\u00e6ldes i\u00a0lidt ad gangen til sovsen har den rette konsistens. Kyllingeternen og asparges vendes i sovsen og varmes igennem.\r\n\r\nTarteletterne varmes i ca. 5 minutter ved 170\u00b0. Fyldet kommes\u00a0i tarteletterne og serveres med lidt karse eller persille p\u00e5 toppen."
+      ],
+      "tools": null,
+      "category": "Forretter"
+    },
+    {
+      "id": 124,
+      "url": "http:\/\/lineskogebog.dk\/slik-og-smaakager\/vaniljekranse\/",
+      "title": "Vaniljekranse",
+      "date": "2015-09-18 18:39:05",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Vaniljekranse-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Vaniljekranse-banner.jpg",
+      "ingredients": [
+        "<ul>\r\n\t<li>150 g rigtigt sm\u00f8r<\/li>\r\n\t<li>250 g mel med h\u00f8jt gluten indhold<\/li>\r\n\t<li>100 g sukker<\/li>\r\n\t<li>1 \u00e6g<\/li>\r\n\t<li>1 stang vanilje eller 2 tsk. vaniljesukker<\/li>\r\n\t<li>50 g mandler<\/li>\r\n<\/ul>\r\n<h2>Redskaber<\/h2>\r\n<ul>\r\n\t<li>K\u00f8dhakker med stjerne form<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til ca. 80 stk."
+      ],
+      "approach": [
+        "Margarinen smuldres og \u00e6g og sukker tils\u00e6ttes. Vaniljestangen fl\u00e6kkes og kornene skrabes ud, og blandes med lidt sukker for at skille dem\u00a0ad og puttes derefter i dejen. Melet baldes i dejen lidt af gangen. Mandlerne smuttes og hakkes fint. De puttes i dejen, som \u00e6ltes let sammen. Dejen s\u00e6ttes p\u00e5 k\u00f8l i et par timer.\r\n\r\nDejen k\u00f8res gennem en k\u00f8dhakker, mens der tages imod de udk\u00f8rte dejstrimler. De udk\u00f8rte dejstrimlerne ligges p\u00e5 bordet. Dejstrimlerne sk\u00e6res i mindre stykker og formes til kranse, som ligges p\u00e5 en bageplade. Kransene bages i 6-8 minutter\u00a0ved 180\u00b0."
+      ],
+      "tools": null,
+      "category": "Slik og sm\u00e5kager"
+    },
+    {
+      "id": 120,
+      "url": "http:\/\/lineskogebog.dk\/desserter\/pandekager\/",
+      "title": "Pandekager",
+      "date": "2015-09-18 18:37:47",
+      "author": "Line Bukhave Jensen",
+      "thumbnail": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Pandekager-thumbnail.jpg",
+      "banner": "http:\/\/lineskogebog.dk\/wp-content\/uploads\/2015\/09\/Pandekager-banner.jpg",
+      "ingredients": [
+        "<h3>Dej<\/h3>\r\n<ul>\r\n\t<li>200 g mel<\/li>\r\n\t<li>2 tsk. vaniljesukker<\/li>\r\n\t<li>2 tsk. sukker<\/li>\r\n\t<li>\u00bc tsk. salt<\/li>\r\n\t<li>3 \u00e6g<\/li>\r\n\t<li>Ca. 4 dl m\u00e6lk<\/li>\r\n<\/ul>\r\n<h3>Bagning<\/h3>\r\n<ul>\r\n\t<li>Flydende stege margarine<\/li>\r\n<\/ul>"
+      ],
+      "number_quantity": [
+        "Til ca. 8 stk."
+      ],
+      "approach": [
+        "Mel, vaniljesukker, sukker og salt kommes i en sk\u00e5l. M\u00e6lken tils\u00e6ttes en deciliter af gangen, s\u00e5 alle mel klumperne r\u00f8res ud. \u00c6ggene tils\u00e6ttes og det hele r\u00f8res godt sammen. Dejen stilles p\u00e5 k\u00f8l\u00a0i ca. 30 minutter.\r\n\r\nEn pande forvarmes og og flydende stege margarine heldes p\u00e5. Med en suppeske heldes en skefuld dej p\u00e5 panden, mens den vippes lidt rundt, s\u00e5 dejen d\u00e6kker hele pandeoverfladen. N\u00e5r dejen er blevet fast og bagsiden af pandekagen er gylden, vendes den. N\u00e5r pandekagen ogs\u00e5 er gylden p\u00e5 den anden side, tages den af. Stables pandekagerne i\u00a0en stak p\u00e5 en tallerken, holder de hinanden varme. Fremgangsm\u00e5den gentages, indtil der ikke er mere dej tilbage.\r\n\r\nPandekagerne kan eventuelt serveres med enten sukker og syltet\u00f8j eller is og chokoladesovs\/karamelsovs."
+      ],
+      "tools": [
+        ""
+      ],
+      "category": "Desserter"
+    }
+  ]
+}
