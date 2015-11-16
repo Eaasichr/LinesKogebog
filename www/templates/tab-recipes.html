@@ -9,12 +9,10 @@
     </div>
     <div class="row" style="flex-wrap: wrap;">
       <div class="col col-50" ng-repeat="posts in vm.testposts">
+        <a href="#/tab/recipe/{{posts.id}}" ng-click="vm.getPostDetail(posts.id)"/>
         <img ng-if="posts.thumbnail" ng-src="{{posts.thumbnail}}" alt=""/>
         <img ng-if="!posts.thumbnail" ng-src="http://lineskogebog.dk/wp-content/uploads/2015/09/Default-thumbnail.png" alt=""/>
-        <p>{{posts.title}}</p>
       </div>
     </div>
-
-
   </ion-content>
 </ion-view>
