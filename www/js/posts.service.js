@@ -1,7 +1,7 @@
 (function () {
   'use strict'
 
-  var postsService = function ($http, $rootScope) {
+  var postsService = function ($http, $rootScope, $ionicLoading) {
 
     // var getPosts = function () {
     //   return $http.get('../data.json')
@@ -17,26 +17,40 @@
     //     });
     // };
 
-    var getPostsWithCategoryId = function(){
-      return $http.get('http://lineskogebog.dk/api/get_category_posts/?category_id=' + 7)
-        .then(function(response){
-          return response.data;
-        })
-    }
+    // var getPostsWithCategoryId = function(){
+    //   return $http.get('http://lineskogebog.dk/api/get_category_posts/?category_id=' + 7)
+    //     .then(function(response){
+    //       return response.data;
+    //     })
+    // }
 
     var getPosts = function(){
+      show();
      return $http.get('http://lineskogebog.dk/api/get_recent_recipe/'
      ).then(function(response) {
+      hide();
          return response.data;
        });
     };
     
-    var getCategories = function () {
+    var getCategories = function() {
+      show();
      return $http.get('http://lineskogebog.dk/api/get_category_index')
        .then(function (response) {
+        hide();
          return response.data;
        });
     };
+
+    function show() {
+      $ionicLoading.show({
+        template: 'Loading recipes..'
+      });
+    };
+
+    function hide() {
+      $ionicLoading.hide();
+    }
 
     //var addRecipeToFavorite = function(id){
     //  var favorites = new Array(
@@ -75,8 +89,7 @@
 
     return {
       getPosts: getPosts,
-      getCategories: getCategories,
-      getPostsWithCategoryId: getPostsWithCategoryId
+      getCategories: getCategories
     }
   }
 

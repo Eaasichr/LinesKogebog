@@ -24,7 +24,7 @@
     $scope.$watch(function(){
       return (($window.innerWidth-35)/2)/1.5;
     }, function(value) {
-      $scope.testHeight = value+50;
+      $scope.testHeight = value+70;
     });
   }
 
